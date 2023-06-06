@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Abisheik<br>🌱 I’m currently learning MERN fullstack...<br>👀 I’m interested in creating a interactive websites ...<br>💻 To see my works Go to : https://abisheikvijayarangan.netlify.app/<br>📫 To reach me by abishekvijayarangan@gmail.com<br>👨‍💻 My Linked In profile: https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/...
+👋 Hi, I’m @Abisheik<br>🌱 I’m currently learning MERN fullstack...<br>👀 I’m interested in creating a interactive websites ...<br>💻 To see my works Check out : https://abisheikvijayarangan.netlify.app/<br>📫 To reach me by abishekvijayarangan@gmail.com<br>👨‍💻 My Linked In profile: https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/...
 
 
 ## 🌐 Socials:
