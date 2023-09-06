@@ -13,6 +13,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
+![Nest.js Logo](https://img.shields.io/badge/Nest.js-05122A?style=for-the-badge&logo=nestjs)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  ![Postgresql](https://img.shields.io/badge/Postgresql-764ABC?style=for-the-badge&logo=postgresql&logoColor=white)
