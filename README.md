@@ -16,6 +16,9 @@
  
  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=282828) ![VS Code](https://img.shields.io/badge/VS_Code-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&color=black) 
 
+ # 📊 Leetcode Stats:
+ ![LeetCode Stats](https://leetcode.card.workers.dev/abisheik88?theme=dark&font=source_code_pro&extension=null)
+
 
 
 # 📊 GitHub Stats:
