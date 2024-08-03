@@ -67,14 +67,14 @@
         <h3>A passionate Fullstack developer from India</h3>
     </header>
 
-    <section>
+   
         <p>🌱 I’m currently learning <strong>Nest JS</strong></p>
         <p>👀 I’m interested in creating interactive websites ...</p>
         <p>👯 I’m looking to collaborate on <strong>MERN Stack and the following Tech Stacks below</strong></p>
         <p>💻 To see my works Check out: <a href="https://abisheikvijayarangan.netlify.app/" target="_blank" style="color:#00f0ff;">abisheikvijayarangan.netlify.app</a></p>
         <p>📫 To reach me: <a href="mailto:abishekvijayarangan@gmail.com" style="color:#00f0ff;">abishekvijayarangan@gmail.com</a></p>
         <p>👨‍💻 My LinkedIn profile: <a href="https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/" target="_blank" style="color:#00f0ff;">LinkedIn</a></p>
-    </section>
+ 
 
     <section id="socials">
         <h3>Connect with me:</h3>
