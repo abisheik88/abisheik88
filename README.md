@@ -52,7 +52,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abisheik88&icon=2&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Abisheik&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abisheik88&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
