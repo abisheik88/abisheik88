@@ -39,9 +39,15 @@
  ![LeetCode Stats](https://leetcode.card.workers.dev/abisheik88?theme=dark&font=source_code_pro&extension=null)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abisheik88&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abisheik88&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abisheik88&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=abisheik88&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abisheik88&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheik88&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abisheik88&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
