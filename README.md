@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abisheik</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-🌱 I’m currently learning **Nest JS**<br>
+🌱 I’m currently learning **JAVA**<br>
 👀 I’m interested in creating a interactive websites ...<br>
 👯 I’m looking to collaborate on **MERN Stack and the following Tech Stacks below**<br>
 💻 To see my works Check out : https://abisheikvijayarangan.netlify.app/<br>
