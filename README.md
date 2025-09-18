@@ -44,6 +44,7 @@
 <div style="display: flex; justify-content: space-between;">
     
 <img src="https://streak-stats.demolab.com/?user=abisheik88&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-liart.vercel.app?user=abisheik88&theme=meta-dark" alt="GitHub Streak" /></a>
 
 </div>
 
