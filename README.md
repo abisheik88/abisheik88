@@ -43,7 +43,8 @@
 
 <div style="display: flex; justify-content: space-between;">
     
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abisheik88&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=abisheik88&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 
