@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abisheik</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abisheik88&label=Profile%20Views&color=12&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abisheik88&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/abisheik88?label=Followers&style=flat&color=blue" alt="followers" />
 </p>
-
-🌱 Currently working with NestJS
-👀 Interested in building interactive, performant web experiences
-👯 Looking to collaborate on MERN Stack projects and the tech below
-💻 Portfolio: abisheikvijayarangan.netlify.app
-📫 Reach me: abishekvijayarangan@gmail.com
-🔗 LinkedIn: abisheik-vijayarangan
-📄 Resume: View Resume
-📚 Currently learning Angular
-🤝 Open to collaborate on open source projects
-
-
+<ul>
+  <li>🌱 Currently working with <b>NestJS</b></li>
+  <li>👀 Interested in building interactive, performant web experiences</li>
+  <li>👯 Looking to collaborate on <b>MERN Stack</b> projects and the tech below</li>
+  <li>💻 Portfolio: <a href="https://abisheikvijayarangan.netlify.app/">abisheikvijayarangan.netlify.app</a></li>
+  <li>📫 Reach me: <a href="mailto:abishekvijayarangan@gmail.com">abishekvijayarangan@gmail.com</a></li>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/">abisheik-vijayarangan</a></li>
+  <li>📄 Resume: <a href="https://docs.google.com/document/d/1_yIOecZHGgtlZtcMaaRs1GZGI-lvcHfl/edit?usp=sharing">View Resume</a></li>
+  <li>📚 Currently learning <b>Angular</b></li>
+  <li>🤝 Open to collaborate on <b>open source projects</b></li>
+</ul>
 
 🌐 Connect with me
 
