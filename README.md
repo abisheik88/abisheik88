@@ -15,7 +15,7 @@
   <li>🌱 Currently learning <b>Java</b> & <b>Angular</b></li>
   <li>👀 I'm interested in creating interactive, performant web experiences</li>
   <li>👯 Looking to collaborate on <b>MERN Stack</b> projects & <b>open source</b></li>
-  <li>💻 Portfolio: <a href="https://abisheikvijayarangan.netlify.app/">abisheikvijayarangan.netlify.app</a></li>
+  <li>💻 Portfolio: <a href="https://abisheikvijayarangan.vercel.app/">abisheikvijayarangan.netlify.app</a></li>
   <li>📫 Reach me: <a href="mailto:abishekvijayarangan@gmail.com">abishekvijayarangan@gmail.com</a></li>
   <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/">abisheik-vijayarangan</a></li>
   <li>📄 Resume: <a href="https://docs.google.com/document/d/1_yIOecZHGgtlZtcMaaRs1GZGI-lvcHfl/edit?usp=sharing">View Resume</a></li>
@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer&logoColor=blue" alt="Framer Motion"/>
       </p>
-      <p align="center"><a href="https://abisheikvijayarangan.netlify.app/">🔗 Live Demo</a></p>
+      <p align="center"><a href="https://abisheikvijayarangan.vercel.app/">🔗 Live Demo</a></p>
     </td>
     <td width="50%">
       <h3 align="center">🩺 Biometric Calculator</h3>
