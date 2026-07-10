@@ -15,7 +15,7 @@
   <li>🌱 Currently learning <b>Java</b> & <b>Angular</b></li>
   <li>👀 I'm interested in creating interactive, performant web experiences</li>
   <li>👯 Looking to collaborate on <b>MERN Stack</b> projects & <b>open source</b></li>
-  <li>💻 Portfolio: <a href="https://abisheikvijayarangan.vercel.app/">abisheikvijayarangan.netlify.app</a></li>
+  <li>💻 Portfolio: <a href="https://abisheikvijayarangan.vercel.app/">Abisheik Vijayarangan</a></li>
   <li>📫 Reach me: <a href="mailto:abishekvijayarangan@gmail.com">abishekvijayarangan@gmail.com</a></li>
   <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/">abisheik-vijayarangan</a></li>
   <li>📄 Resume: <a href="https://docs.google.com/document/d/1_yIOecZHGgtlZtcMaaRs1GZGI-lvcHfl/edit?usp=sharing">View Resume</a></li>
