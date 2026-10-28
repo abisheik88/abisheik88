@@ -1,160 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abisheik</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abisheik88&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/abisheik88?label=Followers&style=flat&color=blue" alt="followers" />
-</p>
+# Abisheik Vijayarangan
 
----
+**Full-stack developer in Chennai, building with NestJS, React and PostgreSQL.**
 
-### 🧑‍💻 About Me
+I build complete web apps, from the database and API to the UI, and ship them live.
 
-<ul>
-  <li>🔭 Currently working with <b>NestJS</b></li>
-  <li>🌱 Currently learning <b>Java</b> & <b>Angular</b></li>
-  <li>👀 I'm interested in creating interactive, performant web experiences</li>
-  <li>👯 Looking to collaborate on <b>MERN Stack</b> projects & <b>open source</b></li>
-  <li>💻 Portfolio: <a href="https://abisheikvijayarangan.vercel.app/">Abisheik Vijayarangan</a></li>
-  <li>📫 Reach me: <a href="mailto:abishekvijayarangan@gmail.com">abishekvijayarangan@gmail.com</a></li>
-  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/">abisheik-vijayarangan</a></li>
-  <li>📄 Resume: <a href="https://docs.google.com/document/d/1_yIOecZHGgtlZtcMaaRs1GZGI-lvcHfl/edit?usp=sharing">View Resume</a></li>
-</ul>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abisheikvijayarangan-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abisheik.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abisheik-vijayarangan/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishekvijayarangan@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)]()
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## Currently
 
-<p align="center">
-  <a href="https://leetcode.com/abisheik88" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/abisheiktime" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/abisheik-vijayarangan-49a753192/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/dFMkS44mSA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg" alt="discord" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/abisheik_99" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
-</p>
+- **Working with:** NestJS, TypeScript, PostgreSQL
+- **Learning:** Java and Angular
+- **Open to:** full-stack developer roles and MERN / open-source collaboration
 
----
+## Featured projects
 
-### 💻 Tech Stack
+### Waremaster: warehouse management
+[ONE LINE: what it does and who it is for, e.g. "Track stock, orders and suppliers in one dashboard."]
 
-#### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+`React` `Node.js` `Express` `[DATABASE]` `[HOSTING]`
 
-#### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+[Frontend](https://github.com/abisheik88/Waremaster-Frontend) · [Backend](https://github.com/abisheik88/Waremaster-Backend) · [Live demo](ADD_LINK)
 
-#### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
+### BorrowBox: lending and borrowing platform
+[ONE LINE: what it does, e.g. "Lets users lend items and track who has borrowed what."]
 
-#### Database
-<p align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+`React` `Node.js` `Express` `[DATABASE]` `[HOSTING]`
 
-#### Tools & Testing
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-</p>
+[Frontend](https://github.com/abisheik88/BorrowBox-FE) · [Backend](https://github.com/abisheik88/BorrowBox--BE) · [Live demo](ADD_LINK)
 
-#### Deployment
-<p align="center">
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+### Portfolio
+Personal site with smooth, performant animations.
 
----
+`Next.js` `TypeScript` `Framer Motion`
 
-### 🚀 Featured Projects
+[Live site](https://abisheikvijayarangan.vercel.app)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Portfolio</h3>
-      <p align="center">Personal portfolio website showcasing my work and skills.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer&logoColor=blue" alt="Framer Motion"/>
-      </p>
-      <p align="center"><a href="https://abisheikvijayarangan.vercel.app/">🔗 Live Demo</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🩺 Biometric Calculator</h3>
-      <p align="center">A calculator app for biometric health metrics with a Postgres backend on Neon DB.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-        <img src="https://img.shields.io/badge/PostgreSQL%20(Neon)-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
-      </p>
-      <p align="center"><a href="#">🔗 Repo (Coming Soon)</a></p>
-    </td>
-  </tr>
-</table>
+### Biometric Calculator (in progress)
+Health-metric calculator backed by Postgres on Neon.
 
----
+`React` `NestJS` `PostgreSQL`
 
-### 📊 GitHub Stats
+*Repo goes public once it's finished.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abisheik88&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheik88&theme=highcontrast&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" height="165" />
-</p>
+## Tech stack
 
-<p align="center">
-  <img src="https://github-readme-streak-liart.vercel.app?user=abisheik88&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</p>
+| | |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Tools and deploy** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black) |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abisheik88&theme=high-contrast&hide_border=true" alt="Activity Graph" width="95%" />
-</p>
+## How I work
 
----
+- I build the whole feature: schema, API, auth (JWT), UI and deployment.
+- I document what I ship, with a README, setup steps and a live demo.
+- I'm picking up Java and Angular to widen what I can build.
 
-### 📊 LeetCode Stats
+## Let's talk
 
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/abisheik88?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Stats" />
-</p>
+I'm looking for a full-stack role where I can keep building and learning. If you're hiring, or you have a MERN or open-source project that needs a hand, [email me](mailto:ADD_YOUR_EMAIL) or [connect on LinkedIn](ADD_YOUR_LINKEDIN_URL).
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abisheik88&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-### ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!-- This section updates automatically via a GitHub Action once WakaTime is connected -->
-<!--END_SECTION:waka-->
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+<sub>Also on [LeetCode](ADD_YOUR_LEETCODE_URL) · [Twitter](ADD_YOUR_TWITTER_URL)</sub>
